@@ -2,5 +2,7 @@ https://www.youtube.com/watch?v=IiPQYQT2-wg
 https://github.com/Annie-Huang/bulmasandbox
 
 https://bulma.io/
+https://cdnjs.com/libraries/bulma
+https://cdnjs.com/libraries/font-awesome
 
 ======================================================
