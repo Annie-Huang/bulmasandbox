@@ -6,3 +6,5 @@ https://cdnjs.com/libraries/bulma
 https://cdnjs.com/libraries/font-awesome
 
 ======================================================
+
+Check out checkin msg.
